@@ -1,12 +1,22 @@
 *{
-    background-color: #8fd1ce;
-    color:#68477e;
-  }
-  
-  h1, h2, h3, footer{
-    font-family: 'Joti One', serif;
-  }
-  
-  p, article, ol, ul, dl, span, form, button{
-    font-family: 'Satisfy', cursive;
-  }
+  background-color: #8fd1ce;
+  color:#68477e;
+}
+
+h1, h2, h3, footer{
+  font-family: 'Joti One', serif;
+  padding: 40px;
+}
+
+p, article, ol, ul, dl, span, form, button{
+  font-family: 'Satisfy', cursive;
+}
+
+#cambiar-nombre{
+  width: 100%;
+  margin: 20px;
+}
+
+#hola-nombre{
+  text-align: center;
+}
