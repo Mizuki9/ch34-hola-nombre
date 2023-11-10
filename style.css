@@ -1,0 +1,12 @@
+*{
+    background-color: #8fd1ce;
+    color:#68477e;
+  }
+  
+  h1, h2, h3, footer{
+    font-family: 'Joti One', serif;
+  }
+  
+  p, article, ol, ul, dl, span, form, button{
+    font-family: 'Satisfy', cursive;
+  }
